@@ -1,0 +1,17 @@
+nav{
+    padding: 10px;
+    background-color: black;
+}
+nav a{
+    color:  white;
+}
+.Card{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+}
+footer{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+}
