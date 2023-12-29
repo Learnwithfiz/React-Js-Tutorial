@@ -1,11 +1,11 @@
 import React from 'react'
-import MyClass from './MyState'
+import ManagForm from './ManagForm'
 function App() {
   
   return (
   <div>
      
-   <MyClass />
+   <ManagForm />
     
   </div>
   )
