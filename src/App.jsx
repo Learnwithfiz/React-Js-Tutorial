@@ -1,11 +1,11 @@
 import React from 'react'
-import ManagForm from './ManagForm'
+ import ManageForm from './ManageForm'
 function App() {
   
   return (
   <div>
      
-   <ManagForm />
+     <ManageForm />
     
   </div>
   )
