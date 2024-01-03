@@ -1,11 +1,11 @@
 import React from 'react'
- import ManageForm from './ManageForm'
+import MyTodo from './MyTodo'
 function App() {
   
   return (
   <div>
-     
-     <ManageForm />
+    
+     <MyTodo />
     
   </div>
   )
